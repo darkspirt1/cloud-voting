@@ -15,7 +15,6 @@ certifi==2025.8.3
 cffi==2.0.0
 charset-normalizer==3.4.3
 click==8.3.1
-colorama==0.4.6
 comm==0.2.3
 debugpy==1.8.19
 decorator==5.2.1
@@ -89,7 +88,6 @@ pymango==0.1.1
 pymongo==4.15.1
 python-dateutil==2.9.0.post0
 python-json-logger==4.0.0
-pywinpty==3.0.2
 PyYAML==6.0.3
 pyzmq==27.1.0
 qrcode==8.2
