@@ -10,7 +10,7 @@ class VoterRegister(BaseModel):
     """What the frontend sends when signing up."""
     full_name: str
     email: EmailStr
-    password: str = Field(..., max_length=72)
+    password: str
 
 
 class VoterLogin(BaseModel):
